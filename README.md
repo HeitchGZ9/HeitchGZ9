@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeitchGZ9
-- 👀 I’m interested in learning Python, Linux and anything relating with Pentesting and Data security
-- 🌱 I’m currently learning Cybersecurity on Edinburgh College
+- 👀 I’m interested in learning Python, Linux and anything related with Pentesting and Data security
+- 🌱 I’m currently studing Cybersecurity on Edinburgh College
 - 💞️ I’m looking to collaborate on Any kind of project that could bring me nice experiences and meet new people
 - 📫 How to reach me Twitter @HectorFnove or Discord HectorF.#6711
 
