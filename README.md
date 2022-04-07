@@ -5,7 +5,7 @@
 - 📫 How to reach me Twitter @HectorFnove or Discord HectorF.#6711
 - 💀 Also, this is my TryHackMe profile https://tryhackme.com/p/HectorF.
 
-Nice to meet you all of you!
+Nice to meet you all!
 
 <!---
 HeitchGZ9/HeitchGZ9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
