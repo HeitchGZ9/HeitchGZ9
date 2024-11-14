@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HeitchGZ9
-- 👀 I’m interested in learning Python, Linux and anything related with Pentesting and Data security
-- 🌱 I’m currently studing Cybersecurity at Edinburgh College
-- 💞️ I’m looking to collaborate in Any kind of project that could bring me nice experiences and meet new people
-- 📫 How to reach me: Twitter @HectorFnove or Discord HectorF.#6711
+- 👀 I’m interested in starting to step inside Threat Intelligence community 
+- 🌱 I’m currently working as a Security analyst and finishing my cybersecurity degree at Napier University
+- 💞️ I’m looking to collaborate on any kind of Threat Intelligence projects
+- 📫 How to reach me: Linkedin hector-fernandez-47514a8a or Discord HectorF.#6711
 - 💀 Also, this is my TryHackMe profile https://tryhackme.com/p/HectorF.
 
 Nice to meet you all!
