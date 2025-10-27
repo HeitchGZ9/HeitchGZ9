@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @HeitchGZ9
+- 👋 Hi, I’m Héctor
 - 👀 I’m interested in starting to step inside the Threat Intelligence community 
 - 🌱 I’m currently working as Cybersecurity Engineer
 - 💞️ I’m looking to collaborate on any kind of Threat Intelligence projects
 - 📫 How to reach me: Linkedin hector-fernandez-security
-- 💀 Also, I am on TryHackMe profile https://tryhackme.com/p/HectorF.
+- 💀 Also, I am on TryHackMe: https://tryhackme.com/p/HectorF.
 
 Nice to meet you all!
 
