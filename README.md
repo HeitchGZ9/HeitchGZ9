@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as Cybersecurity Engineer
 - 💞️ I’m looking to collaborate on any kind of Threat Intelligence projects
 - 📫 How to reach me: Linkedin hector-fernandez-security
-- 💀 Also, this is my TryHackMe profile https://tryhackme.com/p/HectorF.
+- 💀 Also, I am on TryHackMe profile https://tryhackme.com/p/HectorF.
 
 Nice to meet you all!
 
